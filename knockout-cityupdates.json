@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "KO City DL",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2915930",
+        "UpdateSourceArgs": "2915930",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
